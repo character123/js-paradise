@@ -4,11 +4,6 @@
 
 下面就每个阶段需要准备哪些知识进行详解，希望每位同学都能拿到心仪的 offer!!!
 
-> 本文已收录到以下个人网站和 github，欢迎 follow 和 star
-
-- [博客](https://abc-club.github.io/js-paradise/)
-
-- [github](https://github.com/abc-club/js-paradise)
 
 ## 面试准备
 
